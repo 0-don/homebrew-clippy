@@ -1,6 +1,6 @@
 cask "clippy" do
   version "1.5.8"
-  sha256 "1c0367c8123faa29ceaf12da40425374bf326bb515cf80d6c02268ab45b88f5c"
+  sha256 "58bb356f06310c4ae5631a0708a813af74db8e6429b746fbbdc2ec1e9c2cf620"
 
   url "https://github.com/0-don/clippy/releases/download/v#{version}/clippy_#{version}_aarch64.dmg"
   name "Clippy"
