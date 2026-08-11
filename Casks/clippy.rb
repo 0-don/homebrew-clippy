@@ -1,10 +1,10 @@
 cask "clippy" do
-  version "1.6.33"
-  sha256 "683e0f25ec7b68425929d2be0adf667bec57f0161f8dbc20f3aa9d1aacabe880"
+  version "1.7.2"
+  sha256 "0a629b131555f37fbdb033cd6722b158f4aca68c14062eb570734cbd5d1d439a"
 
   url "https://github.com/0-don/clippy/releases/download/v#{version}/clippy_#{version}_universal.dmg"
   name "Clippy"
-  desc "Clipboard Manager built with Rust {{DESCRIPTION}} Typescript"
+  desc "Clipboard Manager built with Rust & Typescript"
   homepage "https://github.com/0-don/clippy"
 
   app "clippy.app"
